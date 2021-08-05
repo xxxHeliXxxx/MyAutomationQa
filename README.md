@@ -5,12 +5,12 @@ https://github.com/Romaha06/interview.git
 # Cat and Dog
 # Notes
 
-basic.cat.dog.main.BasicLevel class should not be modified
+cat.dog.main.Practice_cat_dog class should not be modified
 structure of packages should not be modified
 # Task (Cat, Dog):
 
-make code from basic.cat.dog.main.BasicLevel executable
-to reach the goal modify classes Animal, Cat and Dog from basic.cat.dog.classes package
+make code from cat.dog.main.Practice_cat_dog executable
+to reach the goal modify classes Animal, Cat and Dog from oop_practice.cat_dog package
 expected output:
 
 I'am a Dog. My name is Tuzik. Gav
