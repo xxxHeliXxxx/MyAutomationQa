@@ -19,5 +19,6 @@ public class Practice_cat_dog {
             // expected: I'am a Doc. My name is Tuzik. Gav
             // expected: I'am a Cat. My name Vasya. Mew
         }
+
     }
 }
